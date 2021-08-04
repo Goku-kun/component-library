@@ -1,0 +1,32 @@
+{
+  "name": "component-library",
+  "version": "0.0.1",
+  "description": "This is a component library made using NextJS of the components that I found interesting.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goku-kun/component-library.git"
+  },
+  "keywords": [
+    "nextjs",
+    "js",
+    "components",
+    "reactjs"
+  ],
+  "author": "Dharmarajsinh Jethva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Goku-kun/component-library/issues"
+  },
+  "homepage": "https://github.com/Goku-kun/component-library#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
