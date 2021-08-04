@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "This is a component library made using NextJS of the components that I found interesting.",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -28,5 +29,9 @@
     "next": "^11.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-next": "^11.0.1"
   }
 }
